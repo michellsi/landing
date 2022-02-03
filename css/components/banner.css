@@ -1,0 +1,26 @@
+.banner {
+  background-image: url(../../images/gradienta-QWutu2BRpOs-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 310px 0;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner-button {
+  padding: 15px;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: white;
+  color: #145364;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
+  transition: 0.5s;
+}
+
+.banner-button:hover {
+  color: white;
+  background-color: #145364;
+}

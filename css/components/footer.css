@@ -1,0 +1,18 @@
+.footer {
+  background-color: #FE9B3D;
+  margin: 60px 0px 0px 0px;
+  padding: 30px;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 40px;
+  color: white;
+  opacity: 0.8;
+  transition: 0.4s;
+  padding: 3px;
+}
+
+.footer a:hover {
+  opacity: 1;
+}
